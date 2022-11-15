@@ -4,5 +4,5 @@ module.exports = {
   tabWidth: 2, // 2个间距
   trailingComma: "none",
   useTabs: false,
-  endOfLine: "auto"
+  endOfLine: "auto",
 }
