@@ -33,3 +33,5 @@ node: > 17.9
 8. revert: 恢复上一次提交
 9. style: 不影响程序逻辑的代码修改
 10. test: 测试用例新增，修改
+
+### "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.config.js" // 压缩svg
